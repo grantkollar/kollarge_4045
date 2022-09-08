@@ -1,0 +1,13 @@
+package com.plantplaces2;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Plantplaces2Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(Plantplaces2Application.class, args);
+	}
+
+}
